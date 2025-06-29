@@ -26,6 +26,6 @@ This repository contains my Day 1 practice scripts as I learn the basics of Pyth
 
 I’m Poovarasan E — exploring Python as part of my Cloud Engineer learning journey.
 
-Let’s connect on [LinkedIn](www.linkedin.com/in/poovarasan26) and grow together!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/poovarasan26) and grow together!
 
 ---
