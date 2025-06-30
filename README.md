@@ -21,6 +21,17 @@ This repository contains my Day 1 practice scripts as I learn the basics of Pyth
 📂 You can find all practice scripts inside the `Day1/` folder.
 
 ---
+📅 Day 2 – Python Functions & Modules  
+Topics Covered:
+
+🔧 Defining custom functions using `def`  
+🧠 Returning values vs printing inside functions  
+🗃️ Creating and importing custom modules  
+♻️ Reusability and clean code using modular design  
+
+📂 You can find the practice scripts inside the `Day2/` folder:
+- `function.py` – Function basics and usage  
+- `module.py` – Creating and importing your own module 
 
 ## 👨‍💻 About Me
 
